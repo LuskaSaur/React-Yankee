@@ -4,8 +4,11 @@ This react project is inspired by a website created for a Red Dead Redemption cl
 
 # Tecnologies
 -> NodeJs
+
 -> ReactJs
+
 -> Heroku
+
 -> Mobile First concept
 
 
